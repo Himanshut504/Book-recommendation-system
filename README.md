@@ -46,4 +46,5 @@ Clone this repo (for help see this tutorial).
 - Ratings_data is being kept here within this repo.
 - Books_data is being kept here
 Complete notebook containing Data exploration/Data processing/transformation/model development is being kept here
+<br>
 Feel free to contact me at @htiwari313@gmail.com with any questions.
