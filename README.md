@@ -11,7 +11,7 @@ Methods Used
 - Data Visualization
 - Machine Learning
 
-##Technologies
+## Technologies
 
 - Python
 - Pandas
